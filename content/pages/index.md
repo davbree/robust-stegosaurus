@@ -15,7 +15,7 @@ sections:
     variant: variant-a
     badge:
       elementId: ''
-      label: lorem-ipsum
+      label: lorem-ipsum...
     title: Another Title...
     subtitle: This Is Subtitle???
     text: Hello
