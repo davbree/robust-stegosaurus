@@ -22,6 +22,15 @@ sections:
     actions:
       - label: Stackbit
         url: 'https://www.stackbit.com'
+      - elementId: ''
+        label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowLeft
+        iconPosition: right
+        style: secondary
+        type: Button
     feature:
       type: ImageBlock
       url: /images/hero.png
