@@ -17,7 +17,8 @@ sections:
       elementId: ''
       label: lorem-ipsum
     title: Another Title!
-    text: Hello
+    text: |
+      ....Hello
     form:
       type: FormBlock
       idAttr: contact-form
