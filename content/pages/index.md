@@ -23,7 +23,7 @@ sections:
       - label: Stackbit
         url: 'https://www.stackbit.com'
       - elementId: ''
-        label: Learn more
+        label: Learn more???
         altText: Learn more
         url: /
         showIcon: false
