@@ -17,7 +17,7 @@ sections:
       elementId: ''
       label: lorem-ipsum
     title: Another Title...
-    subtitle: This Is Subtitle
+    subtitle: This Is Subtitle???
     text: Hello
     actions:
       - label: Stackbit
