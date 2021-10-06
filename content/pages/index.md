@@ -21,7 +21,7 @@ sections:
     testimonials:
       - type: Testimonial
         quote: >-
-          “It’s great to see someone taking action while still maintaining a
+          “It’s great to see someone taking action while s1111till maintaining a
           sustainable fish supply to home cooks.”
         name: Johnna Doe
         title: Product Marketing Manager at Acme
