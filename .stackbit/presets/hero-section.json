@@ -1,7 +1,7 @@
 {
     "model": "HeroSection",
     "presets": [{
-            "label": "My Hero Section 1",
+            "label": "My Hero Section 21",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-a",
